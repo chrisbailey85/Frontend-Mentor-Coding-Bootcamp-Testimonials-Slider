@@ -52,6 +52,7 @@ body {
 
 .container .slider-controls img {
   padding: 5px;
+  cursor: pointer;
 }
 
 .container .slider .slide {
